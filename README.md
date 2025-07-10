@@ -1,14 +1,13 @@
-<h1>Hi, I'm Glory! <br/><a href="https://github.com/joshmadakor1"> A Software Programmer</a></h1>
-
+<h1>Hi, I'm Glory! <br/><a href="https://github.com/joshmadakor1"> Software Engineer (Backend) </a></h1>
+<b></b>
 <h2>👨‍💻 My Software Engineering Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Python <i> (Django, HTML, CSS, JS) </i></b>
+  - ["HairSynC" Ecommerce Demo](https://youtu.be/cntyeLxiC8w)
+  - [GITHUB URL](https://youtu.be/cntyeLxiC8w) OR [Click to Explore](https://hairsync.onrender.com/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -17,15 +16,13 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="NwoguGlory1 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="NwoguGlory1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="NwoguGlory1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/Nwogu_Glory1
+[youtube]: www.youtube.com/@glorynwogu7905
+[linkedin]: https://www.linkedin.com/in/nwogu-glory-a2a95020b/
 
 
 <!--
@@ -40,5 +37,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+[instagram]: https://www.instagram.com/joshmadakor/
+[<img align="left" alt="NwoguGlory1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 - ⚡ Fun fact: ...
 -->
