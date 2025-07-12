@@ -6,14 +6,15 @@
   - ["HairSynC" Ecommerce Demo](https://youtu.be/cntyeLxiC8w)
   - [GITHUB URL](https://youtu.be/cntyeLxiC8w) OR [Click to Explore](https://hairsync.onrender.com/)
 
-  - <b> Chrome Extension Project <i> (Django, HTML, CSS, JS) </i></b>
+- <b> Chrome Extension Project <i> (Django, HTML, CSS, JS) </i></b>
   - ["The" Demo](https://youtu.be/cntyeLxiC8w)
   - [GITHUB URL](https://youtu.be/cntyeLxiC8w) OR [Click to Explore](https://hairsync.onrender.com/)
 
 
-  - <b> PHP Project <i> (Django, HTML, CSS, JS) </i></b>
+- <b> PHP Project <i> (Django, HTML, CSS, JS) </i></b>
   - ["The" Demo](https://youtu.be/cntyeLxiC8w)
   - [GITHUB URL](https://youtu.be/cntyeLxiC8w) OR [Click to Explore](https://hairsync.onrender.com/)
+  <b></b>
   
 <h2> 🤳 Connect with me:</h2>
 
