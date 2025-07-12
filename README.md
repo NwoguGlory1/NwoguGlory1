@@ -1,19 +1,20 @@
-<h1>Hi, I'm Glory! <br/><a href="https://github.com/joshmadakor1"> Software Engineer (Backend) </a></h1>
+<h1>Hi, I'm Glory! Software Engineer (Backend) </a></h1>
 <b></b>
 <h2>👨‍💻 My Software Engineering Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Python <i> (Django, HTML, CSS, JS) </i></b>
   - ["HairSynC" Ecommerce Demo](https://youtu.be/cntyeLxiC8w)
   - [GITHUB URL](https://youtu.be/cntyeLxiC8w) OR [Click to Explore](https://hairsync.onrender.com/)
 
-<h2>📺 Popular YouTube Videos</h2>
+  - <b> Chrome Extension Project <i> (Django, HTML, CSS, JS) </i></b>
+  - ["The" Demo](https://youtu.be/cntyeLxiC8w)
+  - [GITHUB URL](https://youtu.be/cntyeLxiC8w) OR [Click to Explore](https://hairsync.onrender.com/)
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-
+  - <b> PHP Project <i> (Django, HTML, CSS, JS) </i></b>
+  - ["The" Demo](https://youtu.be/cntyeLxiC8w)
+  - [GITHUB URL](https://youtu.be/cntyeLxiC8w) OR [Click to Explore](https://hairsync.onrender.com/)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="NwoguGlory1 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
