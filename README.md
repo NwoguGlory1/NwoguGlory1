@@ -1,4 +1,4 @@
-<h1>Hi, I'm Glory! Software Engineer (Backend) </a></h1>
+<h1>Hi, I'm Glory! <b></b>Software Engineer (Backend) </h1>
 <b></b>
 <h2>👨‍💻 My Software Engineering Projects:</h2>
 
